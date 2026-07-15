@@ -42,15 +42,6 @@ An aspiring **Data Scientist and Software Engineer** specializing in Python, Mac
 
 ---
 
-### 📊 GitHub & Coding Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevVyawahare&show_icons=true&theme=visual_studio_dark&count_private=true" alt="Dev's GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevVyawahare&theme=visual_studio_dark" alt="Dev's Commit Streak" height="180" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 - 💼 **LinkedIn:** [linkedin.com/in/dev-vyawahare](https://www.linkedin.com/in/dev-vyawahare-674635350)
 - 💻 **LeetCode:** [leetcode.com/u/devvyawahare](https://leetcode.com/u/devvyawahare/)
