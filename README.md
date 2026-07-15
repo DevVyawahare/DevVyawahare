@@ -23,25 +23,6 @@ An aspiring **Data Scientist and Software Engineer** specializing in Python, Mac
 
 ---
 
-### 🌟 Featured Projects
-
-#### 🤖 [Python AI Tutor](https://github.com/DevVyawahare/python-ai-tutor)
-*An interactive learning companion built using the **Google Gemini API** that uses prompt engineering to provide strategic, Socratic hinting rather than raw code answers.*
-- **Tech Stack:** Python, Gemini API, Streamlit, Git.
-- **Impact:** Enhanced chat context retention loops for long sessions by 40%.
-
-#### 📸 [Facial Recognition Attendance System](https://github.com/DevVyawahare/attendance-system-project)
-*An enterprise-grade biometric tracking system engineered with real-time computer vision processing and an administrative dashboard.*
-- **Tech Stack:** Python, OpenCV, SQLite, Frontend UI.
-- **Impact:** Replaced manual workflows, cutting administrative overhead tracking by 90%.
-
-#### 🛡️ [DPDP Compliance Age-Shield Prototype](https://age-shield-swift.lovable.app/)
-*A dynamic verification compliance system mocking DigiLocker API structures to strictly validate user age bounds.*
-- **Tech Stack:** React, TypeScript, Product Compliance Logic.
-- **Impact:** Attained 100% filtration precision across targeted e-commerce platform restriction nodes.
-
----
-
 ### 🤝 Connect with Me
 - 💼 **LinkedIn:** [linkedin.com/in/dev-vyawahare](https://www.linkedin.com/in/dev-vyawahare-674635350)
 - 💻 **LeetCode:** [leetcode.com/u/devvyawahare](https://leetcode.com/u/devvyawahare/)
